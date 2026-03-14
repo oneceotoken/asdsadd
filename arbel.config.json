@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "generator": "arbel",
+  "style": "aurora",
+  "brandName": "ASDASD",
+  "tagline": "",
+  "accent": "#00d4aa",
+  "bgColor": "#0a0a0f",
+  "contactEmail": "",
+  "industry": "",
+  "sections": [
+    "hero",
+    "services",
+    "portfolio",
+    "about",
+    "contact"
+  ],
+  "content": {}
+}
